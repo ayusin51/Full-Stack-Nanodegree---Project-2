@@ -15,3 +15,7 @@
 
 ## How to run?
 - Double click or run the index.html file in a web browser
+
+## Resources
+  * [9 basic principles of responsive web design](http://blog.froont.com/9-basic-principles-of-responsive-web-design/)
+  * `calc()` in CSS, Read at [CSS TRICKS](https://css-tricks.com/a-couple-of-use-cases-for-calc/)
